@@ -6,4 +6,4 @@ layout: home
 list_title: ' '
 ---
 
-# Hi, I'm <a href="/about">Rui Santos</a> and this is the place where I write about my life, work and all the hacking stuff I do.
+## Hi, I'm Rui Santos and this is the place where I write about my life, work and all the hacking stuff I do
